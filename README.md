@@ -1,16 +1,30 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif?cid=6c09b952p2ag8fy8qo3x485qo1215t4roolu5nwrh0g7vvfl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400"/>
 
-<!--
-**Mewniss/Mewniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/amina-aubakirova-611985251">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.t.me/mewnisss/">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div id="badges">
+ <img src="https://komarev.com/ghpvc/?username=Mewniss&style=flat-square&color=blue" alt=""/>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+</div>
+
+
+
+
+
+
+
