@@ -36,3 +36,17 @@ I am open to new challenges and ready to embrace any opportunity that will help 
 
 ### :hammer_and_wrench: Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://styles.redditmedia.com/t5_4jhmw6/styles/communityIcon_fz7rh5mc0b371.png" title="testrail" alt="testrail" width="40" height="40"/>&nbsp;
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="chromedevtool" alt="chromedevtool" width="40" height="40"/>&nbsp;
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" title="postman" alt="pistman" width="40" height="40"/>&nbsp;
+  <img src="https://static.filehorse.com/icons-mac/developer-tools/soapui-icon-32.png" title="soapui" alt="soapui" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" title="androidstudio" alt="androidstudio" width="50" height="50"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" title="github" alt="github" width="40" height="40"/>&nbsp;
+       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+</div>
+
